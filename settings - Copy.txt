@@ -1,0 +1,11 @@
+grid width
+40
+
+grid height
+20
+
+box size
+30
+
+color amount
+50
